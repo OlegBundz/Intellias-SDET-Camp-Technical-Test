@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intellias SDET Camp Technical Task", "Intellias SDET Camp Technical Task\Intellias SDET Camp Technical Task.vcxproj", "{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Intellias SDET Camp Technical Task Unit Tests", "Intellias SDET Camp Technical Task Unit Tests\Intellias SDET Camp Technical Task Unit Tests.vcxproj", "{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Debug|x64.ActiveCfg = Debug|x64
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Debug|x64.Build.0 = Debug|x64
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Debug|x86.ActiveCfg = Debug|Win32
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Debug|x86.Build.0 = Debug|Win32
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Release|x64.ActiveCfg = Release|x64
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Release|x64.Build.0 = Release|x64
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Release|x86.ActiveCfg = Release|Win32
+		{75C523AF-0ED2-4DE8-BDD0-0CB99A1E4866}.Release|x86.Build.0 = Release|Win32
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Debug|x64.ActiveCfg = Debug|x64
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Debug|x64.Build.0 = Debug|x64
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Debug|x86.Build.0 = Debug|Win32
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Release|x64.ActiveCfg = Release|x64
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Release|x64.Build.0 = Release|x64
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Release|x86.ActiveCfg = Release|Win32
+		{E92F9B91-9B06-46ED-9CF0-005B581BCCBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB6C220-A151-48EE-9389-696A373DED5C}
+	EndGlobalSection
+EndGlobal
